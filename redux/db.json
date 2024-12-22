@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "user@example.com",
+      "password": "hashed_password",
+      "createdAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "d96b",
+      "email": "a.schmailo2015@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "4282",
+      "email": "a.schmailo2015@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "178e",
+      "email": "a.schmailo2014@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3455",
+      "email": "a.scmailo2011@gmail.com",
+      "password": "321"
+    }
+  ],
+  "notes": [
+    {
+      "id": "e7fdfc7d-f078-48bd-9fae-a72a993d9529",
+      "title": "124",
+      "content": "123",
+      "userId": "123"
+    },
+    {
+      "id": "1733563175266",
+      "title": "123",
+      "content": "321",
+      "userId": "d96b"
+    },
+    {
+      "id": "1733563193224",
+      "title": "3213",
+      "content": "321",
+      "userId": "178e"
+    },
+    {
+      "id": "1734725448118",
+      "title": "asd",
+      "content": "asd",
+      "userId": "d96b"
+    },
+    {
+      "id": "1734725461449",
+      "title": "sad",
+      "content": "sad",
+      "userId": "d96b"
+    },
+    {
+      "id": "1734725473757",
+      "title": "sad",
+      "content": "sad",
+      "userId": "d96b"
+    },
+    {
+      "id": "1734725484005",
+      "title": "asd",
+      "content": "sada",
+      "userId": "d96b"
+    },
+    {
+      "id": "1734725491665",
+      "title": "asd",
+      "content": "asd",
+      "userId": "d96b"
+    },
+    {
+      "id": 1734758289995,
+      "title": "ase",
+      "content": "asd",
+      "userId": "178e"
+    },
+    {
+      "id": 1734758319366,
+      "title": "sad",
+      "content": "sda",
+      "userId": "178e"
+    },
+    {
+      "id": 1734758363285,
+      "title": "asd",
+      "content": "dasd",
+      "userId": "178e"
+    },
+    {
+      "id": 1734759212241,
+      "title": "sad",
+      "content": "sda",
+      "userId": "3455"
+    },
+    {
+      "id": 1734759228579,
+      "title": "asdasd",
+      "content": "1\n2\n3",
+      "userId": "3455"
+    }
+  ]
+}
