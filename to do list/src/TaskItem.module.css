@@ -1,0 +1,19 @@
+
+.done {
+    background-color: lightgreen; 
+    text-decoration: line-through; 
+  }
+  
+  .deleteButton {
+    margin-left: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .deleteButton:hover {
+    background-color: darkred; 
+  }
+  
